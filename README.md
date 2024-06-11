@@ -21,7 +21,7 @@ Short Bio: A brief introduction to Minenhle Radebe, highlighting his background,
 Contact Details: Minenhle's email, phone number, and LinkedIn profile link.
 Image: An image of Minenhle Radebe.
 Skills: A list of Minenhle's skills, including technical and soft skills.
-Education: Minenhle's educational background, including his bachelor's degree and participation in a software engineering bootcamp.
+Education: Minenhle's educational background, including her bachelor's degree and participation in a software engineering bootcamp.
 Work Experience: Details of Minenhle's work experience, including roles and dates.
 Projects: Links to Minenhle's projects hosted on GitHub.
 
